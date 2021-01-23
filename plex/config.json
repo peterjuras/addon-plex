@@ -39,6 +39,7 @@
     "claim_code": "",
     "webtools": false
   },
+  "host_network": true,
   "schema": {
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "claim_code": "str",
